@@ -1,0 +1,607 @@
+[
+  {
+    "predicted_disease": "Cervical spondylosis",
+    "risk": "Low",
+    "confidence": 59.15,
+    "emergency": false,
+    "case_id": "93cfbba8-3f48-4e97-9038-ab4430fa8b83",
+    "symptoms": [
+      "Muscle Cramps",
+      "Knee Pain",
+      "Back Pain",
+      "Injury / Trauma"
+    ],
+    "age": 19,
+    "gender": "male",
+    "severity": 4,
+    "timestamp": "2026-03-03T21:27:03.404963"
+  },
+  {
+    "case_id": "93cfbba8-3f48-4e97-9038-ab4430fa8b83",
+    "predicted_disease": "Cervical spondylosis",
+    "risk": "Low",
+    "confidence": 59.15,
+    "emergency": false,
+    "expected_risk_score": 0.18,
+    "temporal_score": 0.1,
+    "severity": 4,
+    "symptoms": [
+      "back_pain"
+    ],
+    "age": 19,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T21:27:03.310455"
+  },
+  {
+    "predicted_disease": "Allergy",
+    "risk": "Low",
+    "confidence": 39.04,
+    "emergency": false,
+    "case_id": "ae2a3d45-5bad-4b3f-a313-36d7f5f79e62",
+    "symptoms": [
+      "Confusion / Memory Issues",
+      "Chills / Rigors",
+      "Weight Gain",
+      "Mood Swings",
+      "Memory Loss",
+      "Panic Attacks",
+      "Stress",
+      "Suicidal Thoughts",
+      "Hallucinations",
+      "Depression / Sadness",
+      "Anxiety / Panic"
+    ],
+    "age": 19,
+    "gender": "male",
+    "severity": 7,
+    "timestamp": "2026-03-03T19:51:08.539796"
+  },
+  {
+    "case_id": "ae2a3d45-5bad-4b3f-a313-36d7f5f79e62",
+    "predicted_disease": "Allergy",
+    "risk": "Low",
+    "confidence": 39.04,
+    "emergency": false,
+    "expected_risk_score": 0.12,
+    "temporal_score": 0.1,
+    "severity": 7,
+    "symptoms": [
+      "anxiety",
+      "chills"
+    ],
+    "age": 19,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T19:51:08.474292"
+  },
+  {
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "1845895a-072a-475a-848e-fb1e47987a7d",
+    "symptoms": [
+      "Chest Pain",
+      "Chest Tightness",
+      "Shortness of Breath on Exertion"
+    ],
+    "age": 19,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T19:20:14.344691"
+  },
+  {
+    "case_id": "1845895a-072a-475a-848e-fb1e47987a7d",
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.41,
+    "temporal_score": 0.5,
+    "severity": 6,
+    "symptoms": [
+      "chest_pain"
+    ],
+    "age": 19,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "1",
+    "timestamp": "2026-03-03T19:20:14.254500"
+  },
+  {
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "59a016e1-9980-48e2-8230-67545abe9a74",
+    "symptoms": [
+      "Cough",
+      "Breathing Difficulty"
+    ],
+    "age": 54,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T13:58:51.225954"
+  },
+  {
+    "case_id": "59a016e1-9980-48e2-8230-67545abe9a74",
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.5,
+    "temporal_score": 1.0,
+    "severity": 6,
+    "symptoms": [
+      "breathlessness",
+      "cough"
+    ],
+    "age": 54,
+    "gender": "male",
+    "duration": "days_2",
+    "trend": "1",
+    "timestamp": "2026-03-03T13:58:51.174490"
+  },
+  {
+    "predicted_disease": "Hypertension",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "03e0f16a-49a7-4b4d-ac57-234ba0880a9d",
+    "symptoms": [
+      "Migraine",
+      "Headache",
+      "Dizziness / Vertigo"
+    ],
+    "age": 57,
+    "gender": "male",
+    "severity": 7,
+    "timestamp": "2026-03-03T13:58:05.059238"
+  },
+  {
+    "case_id": "03e0f16a-49a7-4b4d-ac57-234ba0880a9d",
+    "predicted_disease": "Hypertension",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.27,
+    "temporal_score": 1.0,
+    "severity": 7,
+    "symptoms": [
+      "dizziness",
+      "headache"
+    ],
+    "age": 57,
+    "gender": "male",
+    "duration": "days_2",
+    "trend": "1",
+    "timestamp": "2026-03-03T13:58:04.719456"
+  },
+  {
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "d0cd3b7f-975e-4d4b-a640-3dac3dfeb240",
+    "symptoms": [
+      "Frequent Urination"
+    ],
+    "age": 18,
+    "gender": "male",
+    "severity": 7,
+    "timestamp": "2026-03-03T13:56:48.567958"
+  },
+  {
+    "case_id": "d0cd3b7f-975e-4d4b-a640-3dac3dfeb240",
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.01,
+    "temporal_score": 1.0,
+    "severity": 7,
+    "symptoms": [],
+    "age": 18,
+    "gender": "male",
+    "duration": "days_2",
+    "trend": "1",
+    "timestamp": "2026-03-03T13:56:48.483580"
+  },
+  {
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "b5faed90-509c-43cb-8b07-eb1386e86b9f",
+    "symptoms": [
+      "Cough",
+      "Sneezing",
+      "Difficulty Swallowing",
+      "Sore Throat"
+    ],
+    "age": 28,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T13:54:51.232066"
+  },
+  {
+    "case_id": "b5faed90-509c-43cb-8b07-eb1386e86b9f",
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.22,
+    "temporal_score": 0.85,
+    "severity": 6,
+    "symptoms": [
+      "cough"
+    ],
+    "age": 28,
+    "gender": "male",
+    "duration": "hours_12",
+    "trend": "1",
+    "timestamp": "2026-03-03T13:54:51.146586"
+  },
+  {
+    "predicted_disease": "Acne",
+    "risk": "Low",
+    "confidence": 19.09,
+    "emergency": false,
+    "case_id": "af28d748-8a3a-480a-a535-061c00126125",
+    "symptoms": [
+      "Skin Rash"
+    ],
+    "age": 18,
+    "gender": "male",
+    "severity": 5,
+    "timestamp": "2026-03-03T12:42:29.601684"
+  },
+  {
+    "case_id": "af28d748-8a3a-480a-a535-061c00126125",
+    "predicted_disease": "Acne",
+    "risk": "Low",
+    "confidence": 19.09,
+    "emergency": false,
+    "expected_risk_score": 0.06,
+    "temporal_score": 0.1,
+    "severity": 5,
+    "symptoms": [
+      "skin_rash"
+    ],
+    "age": 18,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T12:42:29.488589"
+  },
+  {
+    "predicted_disease": "Impetigo",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "f9d1fe52-9c63-4c04-bb8b-4e093b2bedef",
+    "symptoms": [
+      "Fever",
+      "Chills / Rigors"
+    ],
+    "age": 22,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T12:34:42.327801"
+  },
+  {
+    "case_id": "f9d1fe52-9c63-4c04-bb8b-4e093b2bedef",
+    "predicted_disease": "Impetigo",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.16,
+    "temporal_score": 0.85,
+    "severity": 6,
+    "symptoms": [
+      "chills",
+      "high_fever",
+      "shivering",
+      "skin_rash"
+    ],
+    "age": 22,
+    "gender": "male",
+    "duration": "hours_12",
+    "trend": "1",
+    "timestamp": "2026-03-03T12:34:41.902162"
+  },
+  {
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "6963a545-fb22-439f-9dff-6f0c4ad573c3",
+    "symptoms": [
+      "Chest Pain",
+      "Breathing Difficulty"
+    ],
+    "age": 35,
+    "gender": "male",
+    "severity": 8,
+    "timestamp": "2026-03-03T12:20:04.701293"
+  },
+  {
+    "case_id": "6963a545-fb22-439f-9dff-6f0c4ad573c3",
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.94,
+    "temporal_score": 0.5,
+    "severity": 8,
+    "symptoms": [
+      "breathlessness",
+      "chest_pain"
+    ],
+    "age": 35,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "1",
+    "timestamp": "2026-03-03T12:20:04.623438"
+  },
+  {
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "Moderate",
+    "confidence": 3.34,
+    "emergency": false,
+    "case_id": "448ea784-6d4f-4923-bfd4-60f159cf2a31",
+    "symptoms": [
+      "Numbness / Tingling"
+    ],
+    "age": 88,
+    "gender": "male",
+    "severity": 7,
+    "timestamp": "2026-03-03T12:08:53.708506"
+  },
+  {
+    "case_id": "448ea784-6d4f-4923-bfd4-60f159cf2a31",
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "Moderate",
+    "confidence": 3.34,
+    "emergency": false,
+    "expected_risk_score": 0.01,
+    "temporal_score": 0.1,
+    "severity": 7,
+    "symptoms": [],
+    "age": 88,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T12:08:53.636858"
+  },
+  {
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "Low",
+    "confidence": 3.34,
+    "emergency": false,
+    "case_id": "4656fc15-8e8d-4ca0-9d45-8be64b288b60",
+    "symptoms": [
+      "Productive Cough"
+    ],
+    "age": 18,
+    "gender": "female",
+    "severity": 7,
+    "timestamp": "2026-03-03T12:06:18.738518"
+  },
+  {
+    "case_id": "4656fc15-8e8d-4ca0-9d45-8be64b288b60",
+    "predicted_disease": "Dimorphic hemmorhoids(piles)",
+    "risk": "Low",
+    "confidence": 3.34,
+    "emergency": false,
+    "expected_risk_score": 0.01,
+    "temporal_score": 0.1,
+    "severity": 7,
+    "symptoms": [],
+    "age": 18,
+    "gender": "female",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T12:06:18.665777"
+  },
+  {
+    "predicted_disease": "Pneumonia",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "ee2a7486-f8fa-40a2-b582-e0fc4d33e807",
+    "symptoms": [
+      "Chest Pain",
+      "Fever",
+      "Ear Pain"
+    ],
+    "age": 20,
+    "gender": "male",
+    "severity": 7,
+    "timestamp": "2026-03-03T12:03:46.233394"
+  },
+  {
+    "case_id": "ee2a7486-f8fa-40a2-b582-e0fc4d33e807",
+    "predicted_disease": "Pneumonia",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.35,
+    "temporal_score": 0.1,
+    "severity": 7,
+    "symptoms": [
+      "chest_pain",
+      "high_fever"
+    ],
+    "age": 20,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T12:03:46.108115"
+  },
+  {
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "3637091e-8383-41df-8a3c-81c40877c934",
+    "symptoms": [
+      "Chest Tightness",
+      "Chest Pain",
+      "Shortness of Breath on Exertion"
+    ],
+    "age": 22,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T11:49:33.440166"
+  },
+  {
+    "case_id": "3637091e-8383-41df-8a3c-81c40877c934",
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.41,
+    "temporal_score": 0.5,
+    "severity": 6,
+    "symptoms": [
+      "chest_pain"
+    ],
+    "age": 22,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "1",
+    "timestamp": "2026-03-03T11:49:33.357404"
+  },
+  {
+    "predicted_disease": "Heart attack",
+    "risk": "Moderate",
+    "confidence": 3.25,
+    "emergency": false,
+    "case_id": "99a2f917-55e6-4203-95e4-09f3b2802ff4",
+    "symptoms": [
+      "Chest Tightness"
+    ],
+    "age": 90,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T11:47:31.212847"
+  },
+  {
+    "case_id": "99a2f917-55e6-4203-95e4-09f3b2802ff4",
+    "predicted_disease": "Heart attack",
+    "risk": "Moderate",
+    "confidence": 3.25,
+    "emergency": false,
+    "expected_risk_score": 0.03,
+    "temporal_score": 0.1,
+    "severity": 6,
+    "symptoms": [],
+    "age": 90,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T11:47:31.149453"
+  },
+  {
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "case_id": "ce38bdeb-9193-4eb4-a263-4355d017afe7",
+    "symptoms": [
+      "Chest Tightness",
+      "Chest Pain",
+      "Shortness of Breath on Exertion"
+    ],
+    "age": 65,
+    "gender": "male",
+    "severity": 6,
+    "timestamp": "2026-03-03T11:37:13.140828"
+  },
+  {
+    "case_id": "ce38bdeb-9193-4eb4-a263-4355d017afe7",
+    "predicted_disease": "Heart attack",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.41,
+    "temporal_score": 0.5,
+    "severity": 6,
+    "symptoms": [
+      "chest_pain"
+    ],
+    "age": 65,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "1",
+    "timestamp": "2026-03-03T11:37:13.055660"
+  },
+  {
+    "case_id": "9c65df6e-b7c2-4d67-bb5b-6ba27a5282a9",
+    "predicted_disease": "Impetigo",
+    "risk": "Moderate",
+    "confidence": 56.33,
+    "emergency": false,
+    "expected_risk_score": 0.17,
+    "temporal_score": 0.5,
+    "severity": 6,
+    "symptoms": [
+      "cough",
+      "high_fever",
+      "shivering",
+      "skin_rash"
+    ],
+    "age": 82,
+    "gender": "male",
+    "duration": "hours_few",
+    "trend": "1",
+    "timestamp": "2026-03-03T11:15:12.346027"
+  },
+  {
+    "case_id": "7184d4b1-3682-441d-8363-efcf11ff08d9",
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "High",
+    "confidence": 100,
+    "emergency": true,
+    "expected_risk_score": 0.3,
+    "temporal_score": 1.0,
+    "severity": 6,
+    "symptoms": [
+      "chest_pain",
+      "cough",
+      "fatigue",
+      "high_fever",
+      "shivering",
+      "skin_rash"
+    ],
+    "age": 35,
+    "gender": "male",
+    "duration": "days_2",
+    "trend": "1",
+    "timestamp": "2026-03-03T11:04:45.029946"
+  },
+  {
+    "case_id": "18553906-7487-437c-9bcd-442ed01fe66d",
+    "predicted_disease": "Bronchial Asthma",
+    "risk": "Low",
+    "confidence": 41.17,
+    "emergency": false,
+    "expected_risk_score": 0.25,
+    "temporal_score": 0.1,
+    "severity": 6,
+    "symptoms": [
+      "fatigue",
+      "high_fever",
+      "shivering"
+    ],
+    "age": 35,
+    "gender": "female",
+    "duration": "hours_few",
+    "trend": "0",
+    "timestamp": "2026-03-03T10:52:35.216069"
+  }
+]
